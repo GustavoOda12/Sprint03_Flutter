@@ -44,26 +44,25 @@ permite que uma doadora:
 
 ### Prints das telas
 
-1. MENU 
-![alt text](image.png)
+**1. Menu**
 
-2. BANCOS DE LEITE
-![alt text](image-1.png)
+<img src="image.png" width="300">
 
-![alt text](image-2.png)
+**2. Bancos de Leite**
 
-3. DOAÇÕES
-![alt text](image-3.png)
+<img src="image-1.png" width="300"> <img src="image-2.png" width="300">
 
-![alt text](image-4.png)
+**3. Doações**
 
-4. CADASTRAR DOAÇÃO
-![alt text](image-5.png)
+<img src="image-3.png" width="300"> <img src="image-4.png" width="300">
 
-![alt text](image-6.png)
+**4. Cadastrar doação**
 
-5. PERFIL 
-![alt text](image-7.png)
+<img src="image-5.png" width="300"> <img src="image-6.png" width="300">
+
+**5. Perfil**
+
+<img src="image-7.png" width="300">
 
 ## Como executar o projeto
 
